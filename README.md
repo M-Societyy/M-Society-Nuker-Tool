@@ -1,4 +1,4 @@
-# 🔥 M-Society Nuker (Versión .exe)
+# 🔥 M-Society Nuker
 
 
 > **Herramienta avanzada para gestión de servidores Discord**  
@@ -68,3 +68,10 @@ markdown
 ```diff
 - Esta herramienta viola los TOS de Discord. Úsala bajo tu propio riesgo.
 - Solo para fines educativos en servidores privados con consentimiento.
+- Actualizado: Funciona en la última versión de Discord (2024).
+
+Todo-en-uno: Combina lo mejor de herramientas como NetNuker y DiscordDestroyer.
+
+Opciones personalizables: Presets integrados para distintos escenarios.
+
+📌 Nota: Para evitar conflictos con TOS de Discord, se recomienda usarlo solo en servidores privados con consentimiento.
