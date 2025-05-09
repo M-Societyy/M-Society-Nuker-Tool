@@ -1,0 +1,20 @@
+{
+  "M-Sociey": {
+    "message": "# FUCKED SERVER BY [M-SOCIETY](https://discord.gg/9QRngbrMKS) NUKER TOOL @everyone @here | [TERMINAL](https://youtube.com/@m-societyoff) | [ACCESS](https://discord.gg/9QRngbrMKS) | [EXECUTE](https://media.discordapp.net/attachments/1359542047794528407/1366981943622893648/0427-1.gif)",
+    "new_server_name": "M-Society",
+    "change_notification": true,
+    "add_admin": true,
+    "channel_name": "M-Society",
+    "text_channel_amount": 50,
+    "voice_channel_amount": 50
+  },
+  "preset2": {
+    "message": "@everyone M-Society",
+    "new_server_name": "M-Society",
+    "change_notification": true,
+    "add_admin": false,
+    "channel_name": "channel",
+    "text_channel_amount": 30,
+    "voice_channel_amount": 1
+  }
+}
