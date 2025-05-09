@@ -1,5 +1,10 @@
 # 🔥 M-Society Nuker
 
+Uso:
+Descarga el .zip y un una misma carpeta extrae el contenido.
+El .exe y config.json iran en la misma carpeta
+unicamente abre el .exe
+ya puedes usar la TOOL
 
 > **Herramienta avanzada para gestión de servidores Discord**  
 > *Únete al servidor de soporte: [Discord](https://discord.gg/9QRngbrMKS)*
